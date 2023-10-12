@@ -11,7 +11,7 @@ const Blogs = () => {
         height: '100vh'
       }} 
     > 
-      <h1>Welcome to GeeksforGeeks Blogs</h1> 
+      <h1>dadad </h1> 
     </div> 
   ); 
 }; 
